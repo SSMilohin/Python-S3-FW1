@@ -1,0 +1,6 @@
+userId,jobTitle,firstName,lastName,employeeCode,region,phoneNumber,emailAddress
+1,Developer,Krish,Lee,E1,CA,123456,krish.lee@learningcontainer.com
+2,Developer,Devid,Rome,E2,CA,1111111,devid.rome@learningcontainer.com
+,,,,,,,
+3,Program Directory,tin,jonson,E3,CA,2222222,tin.jonson@learningcontainer.com
+4,,tin,jonson,,CA,,tin.jonson@learningcontainer.com
